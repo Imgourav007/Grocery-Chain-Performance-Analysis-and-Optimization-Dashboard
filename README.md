@@ -6,10 +6,13 @@ SP_07, SP_08, SP_09) generate ₹34.98 lakhs in profits, 3 underperforming shops
 SP_10) incur ₹24.97 lakhs in losses. The system could achieve ₹35+ lakhs in annual profits if lossmaking shops are optimized.
 
 ## Key metrics:
-• Total System Revenue: ₹6.24 crores
-• Overall Waste Rate: 10.74% (64,429 packets annually)
-• Sales Efficiency: 89.26%
-• Potential Profit Recovery: ₹24.97 lakhs
+• Total System Revenue: ₹6.24 crores.
+
+• Overall Waste Rate: 10.74% (64,429 packets annually).
+
+• Sales Efficiency: 89.26%.
+
+• Potential Profit Recovery: ₹24.97 lakhs.
 
 # 2. Aim:
 To transform underperforming grocery shops into profitable ventures through data-driven insights,
