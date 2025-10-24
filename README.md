@@ -7,11 +7,8 @@ SP_10) incur ₹24.97 lakhs in losses. The system could achieve ₹35+ lakhs in 
 
 ## Key metrics:
 • Total System Revenue: ₹6.24 crores.
-
 • Overall Waste Rate: 10.74% (64,429 packets annually).
-
 • Sales Efficiency: 89.26%.
-
 • Potential Profit Recovery: ₹24.97 lakhs.
 
 # 2. Aim:
