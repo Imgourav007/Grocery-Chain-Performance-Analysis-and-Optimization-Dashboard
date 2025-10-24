@@ -93,8 +93,11 @@ locations.
 • Tea Leaves: ₹0.95L system profit, 10.9% waste.
 
 ## Worst Performing Products:
+
 • Nuts: ₹1.07L system loss, 10.3% average waste.
+
 • Daal: ₹0.73L system loss, 10.5% average waste.
+
 • Butter: ₹0.51L system loss, 10.6% average waste.
 
 # 5. Root Cause Analysis:
